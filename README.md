@@ -1,2 +1,2 @@
 # terasology.it
-Welcome in Italy Tesarology!
+Welcome in Italy Terasology!
